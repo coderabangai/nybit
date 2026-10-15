@@ -1,5 +1,9 @@
 # Nybit
 
+> [!IMPORTANT]
+> **This repository has migrated to [FotainSoft/nybit](https://github.com/FotainSoft/nybit).**
+> All future development, issues, pull requests, and releases are now maintained at [https://github.com/FotainSoft/nybit](https://github.com/FotainSoft/nybit). Please update your remotes and stars accordingly.
+
 Nybit is a lightweight, low-level compiler infrastructure, JIT runtime, and linker written in C23 with zero external toolchain dependencies and zero memory leaks.
 
 ## Architecture & Subsystems
